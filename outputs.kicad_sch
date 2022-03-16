@@ -407,6 +407,7 @@
     )
   )
 
+
   (junction (at 26.67 137.16) (diameter 0) (color 0 0 0 0)
     (uuid 0155060d-c7b3-47bb-b356-7763f2ab9c87)
   )
@@ -1241,7 +1242,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f8dd6a1c-0021-4eb6-b324-9a3542025c86)
   )
-  (bus_entry (at -29.21 68.58) (size 2.54 -2.54)
+  (bus_entry (at -26.67 66.04) (size -2.54 -2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid f8dd6a1c-0021-4eb6-b324-9a3542025c87)
   )
@@ -1360,7 +1361,7 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0a23e39a-51bb-4514-801a-979cc47c060a)
   )
-  (bus (pts (xy -29.21 68.58) (xy -29.21 71.12))
+  (bus (pts (xy -29.21 63.5) (xy -29.21 71.12))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0a273b60-dd8c-4055-b461-5b607afdc5e2)
   )
